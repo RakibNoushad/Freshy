@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mango - 1Kg",
+      "price": 40,
+      "imageUrl": "http://localhost:3000/products/1.jpg",
+      "inStock": 35,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 2,
+      "name": "Orange - 1Dozen",
+      "price": 30,
+      "imageUrl": "http://localhost:3000/products/2.jpg",
+      "inStock": 0,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 3,
+      "name": "Red Apple - 1Kg",
+      "price": 30,
+      "imageUrl": "http://localhost:3000/products/3.jpg",
+      "inStock": 5,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 4,
+      "name": "Red Grapes - 1Kg",
+      "price": 25,
+      "imageUrl": "http://localhost:3000/products/4.jpg",
+      "inStock": 23,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 5,
+      "name": "Pineapple - 1Pcs",
+      "price": 10,
+      "imageUrl": "http://localhost:3000/products/5.jpg",
+      "inStock": 100,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 6,
+      "name": "Dragon Fruits - 1Kg",
+      "price": 80,
+      "imageUrl": "http://localhost:3000/products/6.jpg",
+      "inStock": 55,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 7,
+      "name": "Green Apple - 1Kg",
+      "price": 25,
+      "imageUrl": "http://localhost:3000/products/7.jpg",
+      "inStock": 20,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 8,
+      "name": "Green Grapes - 1Kg",
+      "price": 60,
+      "imageUrl": "http://localhost:3000/products/8.jpg",
+      "inStock": 80,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 9,
+      "name": "Banana - 1Dozen",
+      "price": 60,
+      "imageUrl": "http://localhost:3000/products/9.jpg",
+      "inStock": 15,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 10,
+      "name": "Capcicam - 1Kg",
+      "price": 25,
+      "imageUrl": "http://localhost:3000/products/10.jpg",
+      "inStock": 50,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 11,
+      "name": "Watermelon - 1Pcs",
+      "price": 20,
+      "imageUrl": "http://localhost:3000/products/11.jpg",
+      "inStock": 80,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 12,
+      "name": "Guava - 1Kg",
+      "price": 30,
+      "imageUrl": "http://localhost:3000/products/12.jpg",
+      "inStock": 80,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    }
+  ]
+}

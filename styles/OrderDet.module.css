@@ -1,0 +1,35 @@
+.info {
+  text-transform: uppercase;
+  color: rgb(100, 100, 100);
+}
+
+.info h5 span {
+  padding-left: 1rem;
+  font-size: 0.9rem;
+  text-transform: capitalize;
+}
+
+.orderItems {
+  padding-top: 2rem;
+}
+
+.head {
+  text-transform: uppercase;
+}
+.product {
+  width: 100rem;
+  overflow: hidden;
+}
+
+.pic {
+  float: left;
+  margin-right: 30px;
+}
+
+.title {
+  margin-top: 2rem;
+}
+
+.bold {
+  font-weight: bold;
+}

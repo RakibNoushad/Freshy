@@ -1,0 +1,21 @@
+.nav {
+  height: 50px;
+  padding: 10px;
+  background: rgba(200, 200, 200, 0.5);
+  color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+.home {
+  margin-right: 950px;
+  margin-left: 70px;
+}
+
+.icon {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 150px;
+}

@@ -1,0 +1,20 @@
+.empty {
+  margin: auto;
+  text-align: center;
+}
+
+.layout {
+  width: auto;
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+.paper {
+  margin-bottom: 1rem;
+  padding: 2rem;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}

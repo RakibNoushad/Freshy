@@ -1,0 +1,71 @@
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1038px;
+  /* margin-top: 3rem; */
+}
+
+.item {
+  margin: 0.8rem;
+  flex-basis: 22%;
+  /* padding: 1.5rem; */
+}
+
+.card {
+  /* margin: 1rem; */
+  /* flex-basis: 30%; */
+  height: 390px;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 3px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: #0070f3;
+  border-color: #0070f3;
+}
+
+/* .image {
+  height: 60%;
+  width: 80%;
+} */
+
+.content {
+  padding: 1rem;
+  text-align: center;
+}
+
+.outStock {
+  color: #f00;
+}
+
+.card h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.card img {
+  height: 60%;
+  width: 100%;
+}
+
+.item Button {
+  /* display: flex;
+    align-items: center;
+    justify-content: center; */
+  margin: 0.3rem;
+}

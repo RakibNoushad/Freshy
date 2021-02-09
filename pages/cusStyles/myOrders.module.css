@@ -1,0 +1,18 @@
+.empty {
+  margin: auto;
+  text-align: center;
+}
+
+.head {
+  text-transform: uppercase;
+}
+
+.row {
+  cursor: pointer;
+}
+
+.row:hover,
+.row:focus,
+.row:active {
+  background: rgba(200, 200, 200, 0.5);
+}
