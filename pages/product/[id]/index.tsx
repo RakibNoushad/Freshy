@@ -92,7 +92,6 @@ export const getStaticProps = async (context) => {
   const res = await fetch(
     `http://localhost:5000/products/${context.params.id}`
   );
-  //todo: try error here
   const product = await res.json();
 
   return {
@@ -104,7 +103,6 @@ export const getStaticProps = async (context) => {
 
 export const getStaticPaths = async () => {
   const res = await fetch("http://localhost:5000/products");
-  //todo: try error here
   const products = await res.json();
 
   const ids = products.map((product) => product.id);
